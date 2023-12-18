@@ -1,2 +1,4 @@
-# tech-learning
-Basic concepts explained day wise
+# Tech-Learning
+Basic concepts explained day-wise:
+  - [ ] [Basics of OOP](OOP-Basic.md)
+  - [ ] [Questions](Questions.md)
